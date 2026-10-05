@@ -1,0 +1,100 @@
+What is Generative AI?
+What is the difference between AI, Machine Learning, Deep Learning, and Generative AI?
+What is the difference between discriminative and generative models?
+What are the major applications of Generative AI?
+What is an LLM?
+How does an LLM differ from a traditional NLP model?
+What is a foundation model?
+What is a pre-trained model?
+What is an open-source vs proprietary LLM?
+What is a multimodal model?
+What is NLP?
+What is text generation?
+What is tokenization?
+What is a token?
+What is a context window?
+What is a Transformer architecture?
+Why are Transformers widely used for LLMs?
+What is self-attention?
+What are Query, Key, and Value?
+How is the attention score calculated?
+What is Multi-Head Attention?
+Why do we need multiple attention heads?
+What is positional encoding?
+What is the difference between encoder-only, decoder-only, and encoder-decoder Transformers?
+What is an autoregressive language model?
+What is next-token prediction?
+What is masked self-attention?
+What is the difference between GPT-style and BERT-style models?
+What is an embedding?
+How does an LLM generate a response token by token?
+What is Prompt Engineering?
+What is a zero-shot prompt?
+What is one-shot prompting?
+What is few-shot prompting?
+What is a system prompt?
+What is a user prompt?
+What is chain-of-thought prompting?
+What is role prompting?
+What is prompt chaining?
+What is structured output?
+What is JSON mode/JSON structured output?
+How would you design a prompt to reduce hallucinations?
+What is temperature in an LLM?
+What happens when temperature is set to 0?
+What happens when temperature is increased?
+What is top-k sampling?
+What is top-p sampling?
+What is the difference between temperature, top-k, and top-p?
+What is maximum output token length?
+What is token probability?
+What is hallucination in Generative AI?
+What techniques can be used to reduce hallucinations?
+What are embeddings?
+Why are embeddings important in GenAI applications?
+What is a vector embedding?
+What is semantic similarity?
+What is cosine similarity?
+What is the difference between keyword search and semantic search?
+What is a vector database?
+Why do we need vector databases?
+What is FAISS?
+What is Chroma?
+What is Pinecone?
+What is the difference between a traditional database and a vector database?
+How would you choose a vector database for a GenAI application?
+What is RAG?
+Why is RAG used with LLMs?
+What problem does RAG solve?
+What are the main components of a RAG system?
+What is document ingestion?
+What is document chunking?
+Why is chunking necessary?
+What is chunk size?
+What is chunk overlap?
+What is a retriever?
+What is similarity search?
+What is the difference between RAG and fine-tuning?
+How would you improve a RAG system if it retrieves irrelevant documents?
+What is fine-tuning?
+Why would you fine-tune an LLM?
+What is the difference between pre-training and fine-tuning?
+What is supervised fine-tuning (SFT)?
+What is LoRA?
+What is QLoRA?
+What is PEFT?
+What is the difference between fine-tuning and prompt engineering?
+When would you choose RAG instead of fine-tuning?
+What is an AI Agent?
+What is the difference between an LLM application and an AI Agent?
+What is tool calling/function calling?
+Why do AI Agents need tools?
+What is an Agentic AI workflow?
+What is LangChain?
+What are chains in LangChain?
+What are tools and agents in LangChain?
+How do you evaluate an LLM application?
+What is the difference between LLM evaluation and traditional ML evaluation?
+What are latency, token usage, and cost in an LLM application?
+How would you deploy a GenAI application?
+Explain an end-to-end Generative AI project that you have built, including architecture, model selection, RAG/agents, evaluation, deployment, and challenges.
